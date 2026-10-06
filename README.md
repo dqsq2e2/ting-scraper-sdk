@@ -8,8 +8,8 @@
 
 ```toml
 [dependencies]
-ting-plugin-sdk = { git = "https://github.com/dqsq2e2/ting-plugin-sdk.git", tag = "v2.0.2" }
-ting-scraper-sdk = { git = "https://github.com/dqsq2e2/ting-scraper-sdk.git", tag = "v2.0.2" }
+ting-plugin-sdk = { git = "https://github.com/dqsq2e2/ting-plugin-sdk.git", tag = "v2.0.3" }
+ting-scraper-sdk = { git = "https://github.com/dqsq2e2/ting-scraper-sdk.git", tag = "v2.0.3" }
 serde_json = "1"
 ```
 

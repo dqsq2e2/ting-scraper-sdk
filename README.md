@@ -49,7 +49,7 @@ fn search(input: Value) -> Result<Value> {
 
 `publish_search` 适用于已处理分页请求的结果；通常优先使用 `publish_search_for_request`，校验源站页码与当前请求一致。
 
-完整业务入口、构建、打包和安装步骤见 [插件开发指南](https://github.com/dqsq2e2/ting-reader/blob/chore/rust-2024-edition/docs/plugins/plugin-dev.md)，字段和限额见 [能力声明](https://github.com/dqsq2e2/ting-reader/blob/chore/rust-2024-edition/docs/plugins/capabilities.md)。
+完整业务入口、构建、打包和安装步骤见 [插件开发指南](https://github.com/dqsq2e2/ting-reader/blob/main/docs/plugins/plugin-dev.md)，字段和限额见 [能力声明](https://github.com/dqsq2e2/ting-reader/blob/main/docs/plugins/capabilities.md)。
 
 ## 验证本仓库
 

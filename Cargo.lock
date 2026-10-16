@@ -104,8 +104,8 @@ dependencies = [
 
 [[package]]
 name = "ting-plugin-sdk"
-version = "2.0.3"
-source = "git+https://github.com/dqsq2e2/ting-plugin-sdk.git?tag=v2.0.3#1a5745c22cd3449d1cab83b804f72854786879dc"
+version = "2.0.4"
+source = "git+https://github.com/dqsq2e2/ting-plugin-sdk.git?tag=v2.0.4#179badecfb6bc7714060e82edc3b53711ee784d8"
 dependencies = [
  "serde",
  "serde_json",
@@ -114,7 +114,7 @@ dependencies = [
 
 [[package]]
 name = "ting-scraper-sdk"
-version = "2.0.3"
+version = "2.0.4"
 dependencies = [
  "serde",
  "serde_json",
